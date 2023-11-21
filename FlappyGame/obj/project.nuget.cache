@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZaIvXd5S8K2ROzuy2h9y2U0Bd9Z3tx1OjPGAc/ffazkxG6su7knsjaiAtL6wWkvg6HYjM/4b2MYLI/5Ag/xR6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Supph\\source\\repos\\FlappyGame\\FlappyGame\\FlappyGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Supph\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Supph\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
